@@ -2,7 +2,7 @@
 3	Detailed Operation
        In all the following, a1.exe is assumed to be the name of your exe utable  le
  
-       Typi ally in the command prompt we write a1.exe command [optional parameter(s)℄
+       Typically in the command prompt we write a1.exe command [optional parameter(s)℄
        Your task is to identify the command and its parameters if appli able then return the orre t output or the proper error message.
        A List of the  commands and their expe ted output is shown below.
 
