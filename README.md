@@ -43,7 +43,7 @@ Expe ted output: 12 5 3 ni e
        This  command should add all the integer numbers after add and return the sum
        If the arguments are non-numeri integers then it should print an error message as des ribed below in se tion 3.10.
        Command Line:  a1.exe add 4 5 6	2
-Expe ted output:	17
+Expected output:	17
 3.9	Random
        This command should generate a sequen e of random numbers give a spe i range (min and max numbers) and a seed value. The length of the sequen e is passed as a parameter
        Command Line: a1.exe random 10 1 10	4
